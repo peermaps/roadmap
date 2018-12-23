@@ -108,6 +108,7 @@ A [cryptographic capability system][hyperlog-capability] on top of
 permissions for multi-user collaboration.
 
 [eyros]: https://github.com/peermaps/eyros
+[eyros-swarm]: https://github.com/peermaps/eyros-swarm
 [swarmhead]: https://github.com/peermaps/swarmhead
 [osmhive]: https://github.com/peermaps/osmhive
 [georender]: https://github.com/peermaps/georender
